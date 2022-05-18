@@ -4,6 +4,12 @@ font-family: ProductSans;
 
 }
 
+p {
+
+    margin:0px;
+
+}
+
 body {
 
 padding: 0px;
@@ -27,7 +33,7 @@ font-size: 20px;
 
 }
 
-#projects {
+#projectstext {
 
 margin: 0px;        
 margin-right: 20px;
@@ -35,7 +41,7 @@ float: right;
 
 }
 
-#socials {
+#contacts {
 
 margin: 0px;
 margin-right: 30px;
@@ -77,7 +83,7 @@ align-items:center;
 
 #content {
 
-color: #1e272e;
+color: black;
 font-family: ProductSans;
 padding: 10px;
 
@@ -134,6 +140,7 @@ clear:both;
 #introright {
 
 margin-top: 0px;
+
 }
 
 #introrighttext {
@@ -154,9 +161,61 @@ margin-top: 80px;
 
 padding:60px;
 
+
+}
+
+#biotitle {
+
+    font-size:25px;
+    margin-left:30px;
+
+}
+
+#biocontent {
+
+    padding:0px;
+    margin-top:50px;
+    margin-left:30px;
+    margin-right:30px;
+    text-align:justify;
+
 }
 
 #biotext {
+    width:30%;
+    font-size:30px;
+    margin:0px;
+    
+
+}
+
+#projects {
+
+    padding:60px;
+    height:1020px;
+
+}
+
+#projectstitle {
+
+    font-size:25px;
+    margin-left:30px;
+
+}
+
+#projectscontent {
+
+    background:grey;
+    margin-left:30px;
+    margin-right:30px;
+
+}
+
+.projectcard {
+
+    padding:50px;
+    width:27%;
+    float:right;
 
 }
 
@@ -165,6 +224,5 @@ padding:60px;
 font-family: ProductSans;
 color:grey;
 text-align:center;
-
 
 }
