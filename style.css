@@ -1,0 +1,170 @@
+@font-face {
+src: url(Product_Sans_Regular.ttf);
+font-family: ProductSans;
+
+}
+
+body {
+
+padding: 0px;
+margin: 0px;
+background: white;
+
+}
+
+#header {
+
+padding: 10px;
+padding-top: 20px;
+padding-bottom:20px;
+margin: 0px;
+background: white;
+color: #222f3e;
+overflow: hidden;
+font-family: ProductSans;
+letter-spacing: 1px;
+font-size: 20px;
+
+}
+
+#projects {
+
+margin: 0px;        
+margin-right: 20px;
+float: right;
+
+}
+
+#socials {
+
+margin: 0px;
+margin-right: 30px;
+float: right;
+
+}
+
+#sidebar {
+
+position:fixed;
+float:left;
+background:#4bcffa;
+margin-top:15%;
+border-top-right-radius:7px;
+border-bottom-right-radius:7px;
+
+}
+
+.socialcontainer {
+
+margin:15px;
+
+}
+
+.socialsimg {
+
+height:45px;
+width:45px;
+
+}
+
+#headshotPic {
+
+height:24%;
+width:24%;
+align-items:center;
+
+}
+
+#content {
+
+color: #1e272e;
+font-family: ProductSans;
+padding: 10px;
+
+}
+
+#intro {
+
+padding: 0px;
+margin-top:50px;
+background:transparent;
+text-align: center;
+
+}
+
+#introtext {
+
+padding:10px;
+margin: auto;
+min-width:900px;
+width: 55%;
+overflow: auto;
+
+}
+
+#introleft {
+
+margin: 0px;
+
+}
+
+#introlefttext {
+
+margin: 0px;
+font-size: 45px;
+text-align:left;
+float:left;
+    
+}
+
+#introcenter {
+
+margin: 0px;
+font-size: 40px;
+
+}
+
+#introcentertext {
+
+margin: 0px;
+clear:both;
+
+}
+
+#introright {
+
+margin-top: 0px;
+}
+
+#introrighttext {
+
+margin: 0px;
+font-size: 45px;
+float:right;
+    
+}
+
+#arrowbutton {
+
+margin-top: 80px;
+
+}
+
+#bio {
+
+padding:60px;
+
+}
+
+#biotext {
+
+}
+
+#footer {
+
+font-family: ProductSans;
+color:grey;
+text-align:center;
+
+
+}
